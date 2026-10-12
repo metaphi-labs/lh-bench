@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use LH-Bench, please cite the paper."
+title: "LH-Bench"
+type: dataset
+url: "https://metaphi.ai/benchmarks/lh-bench"
+repository-code: "https://github.com/metaphi-labs/lh-bench"
+authors:
+  - family-names: Chandwani
+    given-names: Abhishek
+  - family-names: Gupta
+    given-names: Ishan
+preferred-citation:
+  type: article
+  title: "LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks"
+  authors:
+    - family-names: Chandwani
+      given-names: Abhishek
+    - family-names: Gupta
+      given-names: Ishan
+  journal: "arXiv preprint arXiv:2603.22744"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.22744"
+  doi: "10.48550/arXiv.2603.22744"
